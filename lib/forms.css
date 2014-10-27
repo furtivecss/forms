@@ -1,0 +1,9 @@
+input,
+textarea {
+  padding: .5rem;
+  margin-bottom: .5rem;
+  display: block;
+  width: 100%;
+  box-shadow: none;
+  border: thin solid var(--light-gray, #d8d8d8);
+}
